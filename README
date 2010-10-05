@@ -21,9 +21,9 @@ And add the following to your .emacs file:
         '("\\.n3" . n3-mode)
         '("\\.owl" . n3-mode))
        auto-mode-alist))
-Replace {path} with the full path to n3-mode.el on your system.
 
-If you want to make it load just a little faster;
+;; Replace {path} with the full path to n3-mode.el on your system.
 
-C-x f n3-mode.el
-M-x byte-compile-file n3-mode.el
+;; If you want to make it load just a little faster;
+;; C-x f n3-mode.el
+;; M-x byte-compile-file n3-mode.el

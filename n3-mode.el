@@ -42,7 +42,7 @@ For detail, see `comment-dwim'."
 )
 
 ;;(define-generic-mode 'n3-mode
-(define-derived-mode n3-mode fundamental-mode
+(define-derived-mode n3-mode fundamental-mode "n3-mode"
   ;; setup tab key not working :/
   ;;(setq c-basic-offset 4)
 

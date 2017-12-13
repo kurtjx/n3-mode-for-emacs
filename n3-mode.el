@@ -1,3 +1,11 @@
+;;; n3-mode.el --- mode for Notation 3
+
+;; Original work by 2003-2007 Hugo Haas <hugo@larve.net>
+;; re-worked and re-published by kurtjx (c) 2010 <kurtjx@gmail.com>
+
+;; For documentation on Notation 3, see:
+;; http://www.w3.org/DesignIssues/Notation3.html
+
 ;; This file is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
 ;; the Free Software Foundation; either version 3, or (at your option)
@@ -8,16 +16,7 @@
 ;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 ;; GNU General Public License for more details.
 
-;; You should have received a copy of the GNU General Public License
-;; along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-;;; n3-mode.el --- mode for Notation 3
-
-;; Original work by 2003-2007 Hugo Haas <hugo@larve.net>
-;; re-worked and re-published by kurtjx (c) 2010 <kurtjx@gmail.com>
-
-;; For documentation on Notation 3, see:
-;; http://www.w3.org/DesignIssues/Notation3.html
+;; For a full copy of the GNU GPL see http://www.gnu.org/licenses.
 
 ;;; Comentary:
 
